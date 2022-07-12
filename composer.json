@@ -1,0 +1,15 @@
+{
+    "name": "freddy/a2",
+    "autoload": {
+        "psr-4": {
+            "Freddy\\A2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "freddyt18",
+            "email": "keopitou.doung@student.cadt.edu.kh"
+        }
+    ],
+    "require": {}
+}
